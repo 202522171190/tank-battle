@@ -14,3 +14,6 @@ _check.js
 _harness.js
 _debug.js
 _d.js
+
+# push helper (local only)
+push-to-github.sh
